@@ -1,5 +1,3 @@
-# langchain-streamlit-automated-resume-to--portfolio-generator
-
 # LangChain Resume Portfolio Website
 
 An **AI-powered Website Generator** that converts natural language prompts and resume data into a complete, interactive portfolio website using **LangChain**, **Google Gemini**, and **Streamlit**.
@@ -26,6 +24,8 @@ This application enables users to generate **HTML, CSS, and JavaScript** code in
 ---
 
 ## 🖥️ Application Interface
+<img width="1013" height="415" alt="Screenshot 2025-12-17 090329" src="https://github.com/user-attachments/assets/534fd1ea-c2ae-45e5-b342-73df33d830d0" />
+
 
 
 ### 🔹 Streamlit UI
@@ -46,3 +46,7 @@ langchain-streamlit-website-generator/
 ├── main.py                 # Streamlit application
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
+## 👩‍💻 Author
+## Voona Anusha  Aspiring Data Analyst | Data Science Enthusiast 📍 Hyderabad, Telangana, India
+
+📧 Email: voonaanusha18@gmail.com 🔗 LinkedIn: www.linkedin.com/in/voona-anusha 🐙 GitHub: 
