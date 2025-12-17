@@ -49,4 +49,4 @@ langchain-streamlit-website-generator/
 ## 👩‍💻 Author
 ## Voona Anusha  Aspiring Data Analyst | Data Science Enthusiast 📍 Hyderabad, Telangana, India
 
-📧 Email: voonaanusha18@gmail.com 🔗 LinkedIn: www.linkedin.com/in/voona-anusha 🐙 GitHub: 
+📧 Email: voonaanusha18@gmail.com 🔗 LinkedIn: www.linkedin.com/in/voona-anusha 🐙 GitHub: https://github.com/voonaanusha18
